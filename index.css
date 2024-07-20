@@ -28,6 +28,15 @@ body{
     border-radius: 20px;
 }
 
+.btn:hover{
+    border: 1px solid rgb(216, 11, 11)
+}
+
+.btn:active{
+    border: 1px solid green;
+}
+
+
 @media screen and (orientation: portrait) {
     .main{
         font-size: 30px;
